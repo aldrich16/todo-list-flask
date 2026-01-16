@@ -1,2 +1,2 @@
 # todo-list-flask
-Proyecto de flask demostrativo
+Proyecto de Flask demostrativo para IDGS
